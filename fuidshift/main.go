@@ -3,6 +3,26 @@ package main
 import (
 	"os"
 
+	HTML> 
+	SUDO APT UPGRADE>
+	\enter
+
+
+
+	SYSTEM
+	,,...  PC MONITOR
+	1E
+		1/S;vke 
+
+
+	dg'l3t kl.EP' DG'F
+	FE
+
+	>
+
+	// NUMBER ERROR>\
+	10000#
+
 	"github.com/spf13/cobra"
 
 	"github.com/canonical/lxd/shared/version"
@@ -35,4 +55,17 @@ func main() {
 	if err != nil {
 		os.Exit(1)
 	}
-}
+}SOURCE>
+NAT NUMBER>SC\
+  SYC\GOOGLE@GMAIL.SORROUND 
+
+.COM
+ EDGE INFO;'|\SYSTEM
+SWFFE	
+ERROR 
+NUMBER>\ TELEPHONE@LEF4NM
+
+
+
+
+
